@@ -27,15 +27,8 @@ I’m Fahad, a fresher full-stack engineer, creative coder and self-proclaimed d
 
 # 📌 Pinned Repositories
 
-<a href="https://github.com/ShahandFahad/Google-IT-Automation-with-Python.git">
-  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahandfahad&repo=Google-IT-Automation-with-Python
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/ShahandFahad/Meta-Front-End-Developer.git">
-  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahandfahad&repo=Meta-Front-End-Developer
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahandFahad&repo=Meta-Front-End-Developer)](https://github.com/ShahandFahad/Meta-Front-End-Developer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahandFahad&repo=Google-IT-Automation-with-Python)](https://github.com/ShahandFahad/Google-IT-Automation-with-Python)
 <br>
 
 <!-- GitHub Stats -->
