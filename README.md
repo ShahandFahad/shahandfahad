@@ -38,15 +38,13 @@ I’m Fahad, a fresher full-stack engineer, creative coder and self-proclaimed d
 
 [![Fahad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shahandfahad&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ShahandFahad/github-readme-stats#gh-dark-mode-only)
 
-# 💹 Most Used Languages
+# ✒ Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahandfahad&&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/shahandfahad/github-readme-stats)
 
 # ⌚Weekly Time
 
 [![wakatime](https://wakatime.com/badge/user/20354ad9-5127-414c-98a5-29d55d41a5d9.svg?style=flat-square)](https://wakatime.com/@20354ad9-5127-414c-98a5-29d55d41a5d9)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahandfahad)](https://wakatime.com/@20354ad9-5127-414c-98a5-29d55d41a5d9)
 
 <!-- Skills -->
 
