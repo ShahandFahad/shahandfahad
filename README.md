@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fahad GitHub Banner](./assets/Github-Cover-2.png)](https://github.com/ShahandFahad)
+[![Fahad GitHub Banner](./assets/Github-Cover-3.png)](https://github.com/ShahandFahad)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahfahad109/)
 
