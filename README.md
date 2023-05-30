@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I’m Fahad, a fresher full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development as well as worked with backend. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Fahad, a fresher full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development as well as worked with backend technologies. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 <!-- Pinned Repositories -->
 
