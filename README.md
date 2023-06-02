@@ -29,6 +29,7 @@ I’m Fahad, a fresher full-stack engineer, creative coder and self-proclaimed d
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahandFahad&repo=Meta-Front-End-Developer)](https://github.com/ShahandFahad/Meta-Front-End-Developer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahandFahad&repo=Google-IT-Automation-with-Python)](https://github.com/ShahandFahad/Google-IT-Automation-with-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahandFahad&repo=Little-Lemon)](https://github.com/ShahandFahad/Little-Lemon.git)
 
 <br>
 
