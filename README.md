@@ -35,12 +35,8 @@ I’m Fahad, a fresher full-stack engineer, creative coder and self-proclaimed d
 
 <!-- GitHub Stats -->
 
-# 💹 GitHub Stats
+# 💹 STATS
 
-[![Fahad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shahandfahad&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ShahandFahad/github-readme-stats#gh-dark-mode-only)
-
-# ✒ Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahandfahad&&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/shahandfahad/github-readme-stats)
+[![Fahad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shahandfahad&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ShahandFahad/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahandfahad&&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/shahandfahad/github-readme-stats)
 
 <!-- Skills -->
