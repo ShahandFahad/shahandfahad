@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fahad GitHub Banner](./assets/Github-Cover-4.png)](https://github.com/ShahandFahad)
+[![Fahad GitHub Banner](./assets/Github-Cover-5.png)](https://github.com/ShahandFahad)
 
 <!--
 
